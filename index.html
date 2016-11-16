@@ -1,8 +1,14 @@
 ---
+bg: "rails.jpg"
 layout: default
-title: Lorem ipsum
+crawlertitle: "Jekyll blog"
+title: "Voyager"
+summary: "main page"
 ---
-<div class="blurb">
-	<h1>Hi there, I'm a dummy website (for now)!</h1>
-	<p>I'm best known as the horrible bear from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+
+{% for post in site.posts limit: 5 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
