@@ -1,6 +1,7 @@
 ---
 date: "2017-09-10"
-author: David Sánchez-Charles, Josep Carmona, \and Victor Muntés-Mulero, Marc Solé
+year: "2017"
+author: David Sánchez-Charles, Josep Carmona, Victor Muntés-Mulero, Marc Solé
 title: "Reducing Event Variability in Logs by Clustering of Word Embeddings"
 keywords: "Unstructured processes, process discovery, machine learning, word embedding"
 layout: "publication"
