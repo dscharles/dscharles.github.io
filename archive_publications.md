@@ -4,7 +4,7 @@ layout: page
 permalink: /publications/
 title: "Publications"
 crawlertitle: "A list of my scientific publications"
-summary: "<em>A proof of being a mad scientist</em>"
+summary: "<em>A proof of me being a mad scientist</em>"
 active: publications
 ---
 
