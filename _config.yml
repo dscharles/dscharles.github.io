@@ -33,7 +33,8 @@ excerpt_separator: "\n\n"
 
 # Other collections besides posts
 collections: 
-- news
+  news:
+    output: false
   publications: 
     output: true
     permalink: /publication/:title
