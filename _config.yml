@@ -31,6 +31,13 @@ safe: false
 lsi: false
 excerpt_separator: "\n\n"
 
+# Other collections besides posts
+collections: 
+  - news
+  publications: 
+    output: true
+    permalink: /publication/:title
+
 
 compress_html:
   comments: ["<!-- ", " -->"]
