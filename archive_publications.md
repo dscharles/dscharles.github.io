@@ -12,7 +12,7 @@ active: publications
 {% for post in site.publications %}
     {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% if current_year != previous_year %}
-        <h2 class="category-key" id="{{ current_year }}">{{ current_year }}</h2>
+        <h2 class="category-key" id="{{ current_year }}">a{{ current_year }}</h2>
         {% assign previous_year = current_year %}
     {% endif %}
 <ul class="year">
