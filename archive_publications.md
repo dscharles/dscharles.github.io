@@ -15,7 +15,7 @@ active: publications
         {% unless forloop.first %}
 </ul>        
         {% endunless %}
-<h2 class="category-key" id="{{ post.year }}">a{{ post.year }}</h2>
+<h2 class="category-key" id="{{ post.year }}">{{ post.year }}</h2>
 <ul class="year">
         {% assign previous_year = current_year %}
     {% endif %}
