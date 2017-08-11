@@ -1,5 +1,5 @@
 ---
-bg: "tag.jpg"
+bg: "tools.jpg"
 layout: page
 permalink: /publications/
 title: "Publications"
