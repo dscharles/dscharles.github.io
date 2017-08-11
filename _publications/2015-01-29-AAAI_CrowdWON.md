@@ -5,7 +5,7 @@ author: David Sánchez-Charles, Victor Muntés-Mulero, Marc Solé, Jordi Nin
 title: "CrowdWON: A Modelling Language for Crowd Processes based on Workflow Nets"
 keywords: "crowdsourcing; modelling language; process"
 layout: "publication"
-url: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9612
+download: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9612
 reference: "Sánchez-Charles, D., Muntés-Mulero, V., Solé, M., & Nin, J. (2015, January). CrowdWON: A Modelling Language for Crowd Processes based on Workflow Nets. In AAAI (pp. 1284-1290)"
 ---
 

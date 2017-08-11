@@ -6,7 +6,7 @@ title: "Improving Process Model Precision by Loop Unrolling"
 keywords: ""
 layout: "publication"
 reference: "Sánchez-Charles, D., Solé, M., Carmona, J., & Muntés-Mulero, V. (2016). Improving Process Model Precision by Loop Unrolling. In SIMPDA (pp. 89-99)."
-url: http://ceur-ws.org/Vol-1757/paper7.pdf
+download: http://ceur-ws.org/Vol-1757/paper7.pdf
 ---
 
 Despite the advent of scalable process mining techniques that can handle both noisy and incomplete real-life event logs, there is a lack of scalable algorithms capable of handling a common cause of model underfitting: when the same activity in the log in fact behaves differently depending on the number of occurrences in a particular trace. This paper proposes a simple scalable technique to identify these cases and successfully mine better process models from event logs. The technique has been implemented and evaluated on well-known benchmarks in the literature. 
