@@ -20,7 +20,6 @@ active: publications
         {% assign previous_year = current_year %}
     {% endif %}
 <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%d-%m-%Y"  }}</span>
+    <span class="date">{{ post.date | date: "%d-%m-%Y"  }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
 </li>
 {% endfor %}

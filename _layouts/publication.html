@@ -19,9 +19,15 @@ layout: default
     <h2>Abstract</h2>
     {{ content }}
 
+    {% if page.url %}
+      <p class="post-url">
+        [ <a href="{{ page.url }}"> PDF </time> ]
+      </p>
+    {% endif %}
+
     {% if page.reference %}
-    <h4>Cite as</h4>
-    {{ page.reference }}
+      <h4>Cite as</h4>
+      <p class="post-ref">{{ page.reference }}</p>
     {% endif %}
   </div>
 

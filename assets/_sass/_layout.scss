@@ -254,6 +254,40 @@ article {
 
 }
 
+.post-url {
+  padding-bottom: .5em;
+  text-transform: uppercase;
+  color: #b9b9b9;
+  font-size: 90%;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  a, a:hover, a:focus, a:visited {
+    color: #000080;
+  }
+
+  .meta-black {
+    color: #000080;
+  }
+
+}
+
+.post-ref {
+  padding-bottom: .5em;
+  text-transform: uppercase;
+  color: #333;
+  font-size: 70%;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  a, a:hover, a:focus, a:visited {
+    color: #333;
+  }
+
+  .meta-black {
+    color: #333;
+  }
+
+}
+
 
 /*
 * Archive
@@ -262,7 +296,7 @@ article {
   padding: 0;
   list-style: none;
   text-transform: uppercase;
-  font-size: 13px
+  font-size: 15px
 }
 
 .year li {
@@ -280,10 +314,10 @@ article {
 }
 
 .date {
-  text-align: right;
-  float: right;
+  //text-align: right;
+  //float: right;
   color: #d4d4d4;
-  display: none;
+  //display: none;
 }
 
 
