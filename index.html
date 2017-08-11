@@ -14,6 +14,6 @@ summary: "(<em>a.k.a. me</em>)"
 
 
 <h4>Recently Happened</h4>
-{% for post in site.news limit: 5 %}
+{% for post in site.news reversed limit: 5 %}
   <strong>{{ post.fakedate }}</strong> &nbsp;&nbsp;/&nbsp;&nbsp; {{ post.title }}
 {% endfor %}
