@@ -1,0 +1,5 @@
+ul.box-note > li, 
+ul.box-warning > li, 
+ul.box-error > li {
+    list-style:none !important;
+}
