@@ -981,7 +981,7 @@ Hold Down+Left during the fade out spoils screen after the first Mistodon fight 
 {: .box-note}
 * **Steiner Menu**
   * Equipment:
-    * Beatrix: <span style="color: red">remove everything</span>
+    * Beatrix: <span style="color: red">remove everything except Cross Helm</span>
     * Steiner:
       * Optimize (Myth Helm / Thunder Gloves / Plate Mail / Power Belt)
       * Mythril Gloves
@@ -1066,6 +1066,7 @@ Hold Down+Left during the fade out spoils screen after the first Mistodon fight 
   * 3 Silver Forks
   * 1 Trident
   * 1 Magic Racket
+  * 1 Egoist's Armlet
   * 1 Diamond Gloves
   * 1 Judo Uniform
   * 1 Dark Hat
@@ -1086,7 +1087,7 @@ Hold Down+Left during the fade out spoils screen after the first Mistodon fight 
 * Go down the stairs and left
 * In this room, go left and down (to the right a little) to pick up **chest Diamond Sword**
 * Exit south
-* In this room, head straight right for **chest Power Vest**, up the stairs for chest Feather Boots
+* In this room, head straight right for **chest Power Vest**, up the stairs for **chest Feather Boots**
 * Exit left to break up the screen and re-enter immediately--click each hologram in clockwise order starting with the top left, exit the bottom door again
 * Run around the circle and grab the **chest containing Shield Armor**
 * Exit top-right door to bridge--hold Right to cross it
@@ -1235,8 +1236,6 @@ Note on Desert Palace encounters: You need to run away normally or kill the enem
       * Mythril Gloves
     * Vest
       * Adaman Vest
-    * Boots
-      * 1 Germinas Boots
     * Ring
       * Promise Ring
   * Buy
@@ -1273,7 +1272,7 @@ Note on Desert Palace encounters: You need to run away normally or kill the enem
       * Butterfly Sword
   * Abilities
     * Zidane: Distract, <span style="color:red">MP Attack</span>, <span style="color:red">Bird Killer</span>, Devil Killer, <span style="color:red">Man Eater</span>, <span style="color:red">Clear Headed</span>, Antibody, Level Up
-    * Steiner: Level Up
+    * Steiner: Bird Killer, Level Up
   * Back row Zidane
 
 {: }
