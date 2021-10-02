@@ -897,6 +897,26 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: style="text-align: center"}
 ![map](/assets/img/ff2/mtower/mtower5.gif)
 
+## 6F
+
+{: style="text-align: center"}
+![map](/assets/img/ff2/mtower/mtower6.gif)
+
+## 7F
+
+{: style="text-align: center"}
+![map](/assets/img/ff2/mtower/mtower7.gif)
+
+## 8F
+
+{: style="text-align: center"}
+![map](/assets/img/ff2/mtower/mtower8.gif)
+
+## 9F
+
+{: style="text-align: center"}
+![map](/assets/img/ff2/mtower/mtower9.gif)
+
 # Fynn Tower
 
 * Grab the **Cyclone** keyword on Hilda
@@ -1017,19 +1037,23 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 ## 5F
 
-* No map
+{: style="text-align: center"}
+![map](/assets/img/ff2/palamecia/paramekia5.gif)
 
 ## 6F 
 
-* No map
+{: style="text-align: center"}
+![map](/assets/img/ff2/palamecia/paramekia6.gif)
 
 ## 7F
 
-* No map
+{: style="text-align: center"}
+![map](/assets/img/ff2/palamecia/paramekia7b.gif)
 
 ## 8F
 
-* No map
+{: style="text-align: center"}
+![map](/assets/img/ff2/palamecia/paramekia8.gif)
 
 # Fynn Castle
 
