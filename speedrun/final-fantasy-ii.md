@@ -135,6 +135,10 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 # Altair
 * Give the **mythril** to the blacksmith
 
+{: .box-note}
+* **Magic Shop**
+  * 3 Fire Tome
+
 {: }
 * Enter the boat by Paloom
 
@@ -271,7 +275,8 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
   * Sell
     * Every weapon/armor but Shields
   * Buy
-    * 7 Teleport tomes
+    * 3 Teleport Tomes
+    * 2 Warp Tome
 
 {: .box-note}
 * **Item shop**
@@ -464,7 +469,7 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 {: .box-warning}
 * **Pirates**
-  * Firion/Maria/Guy - Attack
+  * Firion/Maria/Guy - Fire Tome
 
 {: .box-note}
 * **Menu**
@@ -551,9 +556,9 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 * **Chimera x4**
   * Round 1
     * Firion: Attack
-    * Maria: Teleport Tome
-    * Guy: Teleport Tome
-    * Leila: Teleport Tome
+    * Maria: Warp Tome
+    * Guy: Attack
+    * Leila: Sage's Wisdom on Maria
   * Round 2
     * Firion/Guy: Attack
     * Maria: Defend/Heal
@@ -611,10 +616,10 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: .box-warning}
 * **Big Horns x4**
   * Round 1
-    * Firion: Sleep Tome
+    * Firion: Attack/Sleep Tome
     * Maria: Teleport Tome
-    * Guy: Teleport Tome
-    * Leila: Sage's Wisdom on herself
+    * Guy: Attack
+    * Leila: Saint's Spirit on Maria
   * Afterwards
     * Firion/Maria/Guy: Attack
     * Leila: Thunder
