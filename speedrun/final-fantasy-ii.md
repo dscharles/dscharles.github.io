@@ -18,34 +18,27 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: .box-note}
 * **Menu**
   * Equipment
-    * Firion - Broadsword/Broadsword
-    * Maria - Unequip all
-    * Guy - Unequip all
+    * Firion
+      * Broadsword/Broadsword
+    * Maria
+      * Unequip all
+      * Shield in L hand
+    * Guy
+      * Unequip all
+      * Shield in L hand
   * Formation
     * Maria - Front row
-
-{: .box-note}
-* **Armor shop**
-  * Buy 
-    * 2 Bucklers
-  * Sell
-    * All equipment except Bucklers
-
-{: .box-note}
-* **Menu**
-  * Equipment
-    * Maria - Optimal
-    * Guy - Optimal
 
 {: }
 * Overworld to **Fynn**
   * Auto-battle everything
+  * After Firion gets sword lvl3, Firion defends so others get exp.
 
 # Fynn
 * Go to pub
   * You need to go clockwise around the city, from the upmost exit
 * Talk to bartender and use **Wild Rose** password
-* Pick **3 chests with potions**
+* Pick **potions** if necessary
 * Talk to Scott and get **ring**
 
 # Altair
@@ -87,14 +80,12 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 ![B1](/assets/img/ff2/semitt/semite1.gif)
 
 ## 2F
-* Grab the **south-east chest** for potion
 * Left-most door
 
 {: style="text-align: center"}
 ![B2](/assets/img/ff2/semitt/semite1b.gif)
 
 ## 3F
-* Grab the **south-east chest** for money (200 gil)
 * Left-most door
 * Talk with VIP guy
 
@@ -151,7 +142,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 * Talk to south-west soldier and get into sewers
 
 ## 1F
-* Grab the **chest with longbow** (to be sold)
 
 {: style="text-align: center"}
 ![map](/assets/img/ff2/bafsk/bafsuk1.gif)
@@ -167,7 +157,7 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 # Poft
 * Learn **Airship** and **Sunfire** from Cid
-* Buy airship ride to Salamand
+* Pay trip to Salamand
 
 {: }
 * Use boat and buy it back
@@ -188,16 +178,12 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
   * Buy (aprox.)
     * 5 Eye drops
     * 5 Antidote
-    * X Potions (**do not go under 2000 gil**)
+    * X Potions (**do not go under 1000 gil**)
 
 {: .box-note}
 * **Magic shop**
   * Buy
-    * 2 Life Tome
-
-{: .box-note}
-* **Menu**
-  * Learn Life on Firion and Guy
+    * 1 Life Tome
 
 {: }
 * Talk to Josef on the mayor house (north-east)
@@ -211,8 +197,10 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 # Snow Cave
 
+{: .box-warning}
+* Learn Life with Firion/Guy if you need to revive somebody
+
 ## 1F
-* Grab the **middle chest** form some money (350 gil)
 
 {: style="text-align: center"}
 ![map](/assets/img/ff2/snow/snowfield1.gif)
@@ -236,11 +224,7 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 ## 5F
 * Grab the south-west chest
   * Use the Fire Tome with Josef
-
-{: .box-note}
-* **Equipment**
-  * Ancient Sword on Firion
-
+  
 {: style="text-align: center"}
 ![map](/assets/img/ff2/snow/snowfieldb4a.gif)
 
@@ -251,8 +235,8 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: .box-note}
 * **Menu**
   * Equipment
-    * Maria/Guy - Unequip
-    * (Safe) Maria - Equip armor
+    * Ancient Sword on Firion
+    * Maria - Equip armor
   * Heal
 
 {: style="text-align: center"}
@@ -275,20 +259,18 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
   * Sell
     * Every weapon/armor but Shields
   * Buy
+    * 1 Life Tome
     * 3 Teleport Tomes
-    * 2 Warp Tome
+    * 1 Warp Tome
+
+{: .box-note}
+* **Menu**
+  * Learn Life on Firion and Guy
 
 {: .box-note}
 * **Item shop**
   * Buy
     * Potions/Antidotes (do not go under 400 gil)
-
-{: .box-note}
-* **Menu**
-  * Equipment
-    * Maria/Guy - Shields
-  * Formation
-    * Backrow everyone
 
 {: }
 * Go back to Poft
@@ -329,13 +311,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: style="text-align: center"}
 ![map](/assets/img/ff2/kashuan/kasyuon5.gif)
 
-{: .box-note}
-* **Menu**
-  * Equipment
-    * Maria/Guy - Unequip
-  * Formation
-    * Firion/Maria/Guy - Front row
-
 {: .box-warning}
 * **Red Flame**
   * Firion: Attack
@@ -348,10 +323,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 {: .box-note}
 * **Menu (after fight)**
-  * Equipment
-    * Maria/Guy - Equip shields
-  * Formation
-    * Backrow everyone
   * Item
     * Learn teleport on Firion
 
@@ -381,13 +352,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 ## B1
 * Use hidden path to chest
 
-{: .box-note}
-* **Menu (before opening chest)**
-  * Equipment
-    * Maria/Guy - Unequip shields
-  * Formation
-    * Firion/Maria/Guy - Front row
-
 {: .box-warning}
 * **Chest fight**
   * Firion/Maria/Guy: Attack front enemies
@@ -395,7 +359,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 {: .box-note}
 * **Menu (after fight)**
-  * Re-equip Maria/Guy
   * Equip Sleep Blade on Firion
   * Backrow everybody
 
@@ -408,7 +371,7 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 ## B1
 * Grab the **chest to the left of Hilda's cell**
-* Equip accessory to Firion
+* Equip accessory to Firion, remove armor
 * Back to 1F
 
 ## 1F
@@ -433,18 +396,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 # Altair
 
-{: .box-note}
-* **Item shop**
-  * Sell
-    * Berserk Tome
-    * Stun Tome
-    * Unused equipment but Shields
-  * Buy
-    * MAX - Potions
-    * 20+ Antidote
-    * 20+ Eye drops
-    * 30+ Hi-Potions (do not go under 5000 gil)
-
 {: }
 * Talk to King
 * Enter Throne Room
@@ -460,13 +411,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 # Paloom
 * Talk to Leila
 
-{: .box-note}
-* **Menu (before ship)**
-  * Equipment
-    * Unequip Maria/Guy
-  * Formation
-    * Firion/Maria/Guy - Frontrow
-
 {: .box-warning}
 * **Pirates**
   * Firion/Maria/Guy - Fire Tome
@@ -474,10 +418,9 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: .box-note}
 * **Menu**
   * Equipment
-    * Leila: Remove Gold Hairpin
-    * Firion: Equip Gold Hairpin
-    * Maria/Guy: Optimal
-    * Leila: Remove eveything, equip leftover shield(s)
+    * Leila: 
+      * Remove all
+      * Gold Hairpin
   * Formation
     * Backrow
 
@@ -500,7 +443,7 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 * Talk twice to Kid
 
 ## 2F
-* Grab **the chest on your left** and then go upstairs on your right
+* Go downstairs to your right
 
 ## 1F (back)
 * Go to the left-most room and grab bottom row of chests
@@ -539,16 +482,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: style="text-align: center"}
 ![map](/assets/img/ff2/deist/distdb4.gif)
 
-{: .box-note}
-* **Menu (before fight)**
-  * Equipment
-    * Maria/Guy/Leila - Unequip
-    * Maria - Silver Cuirass
-    * Firion - Ancient Sword / Sleep Blade
-  * Formation
-    * Firion/Guy - Frontrow
-  * Heal
-
 {: .box-error}
 * Save before fight (high RNG)
 
@@ -566,11 +499,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 {: }
 * Drop egg in and teleport out
-
-{: .box-note}
-* **Menu (outside)**
-  * Re-equip shields
-  * Backrow everyone
 
 {: }
 * Sail to Tropical Island
@@ -641,27 +569,27 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: .box-error}
 * Quick save
 
-{: .box-note}
-* **Menu**
-  * Equipment
-    * Firion/Maria/Guy - Unequip
-    * Frontrow Firion/Maria/Guy
+{. box-note}
+* **Equipment**
+  * Strip Leila
 
 {: .box-warning}
 * **Lamia Queen**
   * Firion/Maria/Guy: Attack
   * Leila: Thunder
 
-{: .box-note}
-* **Menu**
-  * Re-equip
-  * Backrow everybody
+{. box-note}
+* **Equipment**
+  * Maria
+    * Gold Hairpin
+  * Firion
+    * Gold Hairpin
 
 {: .box-note}
 * **Item shop**
+  * Sell Junk
   * Buy
     * Max - Hi-Potion
-    * Max - Potion
     * -- 
     * 7 Gold Needle
     * 7 Cross
@@ -675,16 +603,12 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 # Coliseum
 
-{: .box-note}
-* **Menu**
-  * Maria/Guy - Unequip
-  * Firion/Maria/Guy - Frontrow
-
 {: .box-warning}
 * **Behemoth**
   * Firion/Maria/Guy - Attack
   * Gordon - Defend
 
+{: }
 * It is a trap!
 
 ## B2
@@ -719,8 +643,9 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 {: .box-note}
 * **Menu (before Gottos)**
-  * Maria/Guy/Leila - Remove everything
-  * Firion/Maria/Guy - Front row
+  * Leila
+    * Remove everything
+    * Gold Hairpin
 
 {: .box-warning}
 * **Gottos**
@@ -729,12 +654,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 {: }
 * Grab the **three keywords**
-
-{: .box-note}
-* **Menu**
-  * Revive & Heal
-  * Maria/Guy - Re-equip
-  * Backrow
 
 {: }
 * Hidden path north-east of the throne room
@@ -782,8 +701,8 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: .box-note}
 * **Item Shop**
   * Buy
-    * Max - Potion
-    * Max - Hi-Potion
+    * 1 Ether
+    * Max - Phoenix Down
 
 {: }
 * Put White Mask on the dungeon
@@ -795,6 +714,7 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 
 * Grab the **chest near entrance**
 * Use **Black Mask** on guy in front of door
+  * Equip on Firion
 
 {: style="text-align: center"}
 ![map](/assets/img/ff2/mysidia/misidiad1.gif)
@@ -844,38 +764,17 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: style="text-align: center"}
 ![map](/assets/img/ff2/whirlpool/ribaiasan3.gif)
 
-{: .box-note}
-* **Equipment (before fight)**
-  * Guy - Optimal (remove shields)
-  * Remove shields on Maria
-  * Firion/Maria/Guy/Ricard - Frontrow
-
 {: .box-warning}
 * **Fight**
   * Attack
-
-{: .box-note}
-* **Equipment**
-  * Maria/Guy - Re-equip shields
-  * Backrow everyone
 
 # Mysidia Tower
 
 * There will be several fights against Gigas. 
 
-{: .box-note}
-* **Equipment (before Gigas)**
-  * Maria/Guy - Remove shields
-  * Firion/Maria/Guy/Ricard - Frontrow
-
 {: .box-warning}
 * **XXXX Gigas**
   * Attack
-
-{: .box-note}
-* **Equipment (after Gigas)**
-  * Maria/Guy - Re-equip shields
-  * Firion/Maria/Guy/Ricard - Backrow
 
 ## 1F
 
@@ -1005,8 +904,6 @@ Based on [Deln notes](https://docs.google.com/document/d/1axOvLpq-rf2jEhEiW54e-4
 {: .box-note}
 * **Equipment**
   * Unequip Ricard
-  * Maria/Guy/Ricard - Equip shields
-  * Backrow everybody
 
 # Fynn 
 * Watch Cid die
